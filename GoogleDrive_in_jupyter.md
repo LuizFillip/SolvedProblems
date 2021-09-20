@@ -1,4 +1,4 @@
-# Abra os arquivos do Jupyter Notebook salvos no Google
+# Abra os arquivos do Jupyter Notebook salvos na pasta Google Drive
 
 por John White
 link original: https://hometechtime.com/open-jupyter-notebook-files-saved-in-google-drive-file-stream/
